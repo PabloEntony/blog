@@ -1,3 +1,3 @@
 # Blog
 
-Projeto desenvolvido pela turma de front-end.
+Projeto desenvolvido pela turma de front-end da Awari!
